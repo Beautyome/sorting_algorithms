@@ -65,4 +65,4 @@ void counting_sort(int *array, size_t size)
 
 	free(sorted);
 	free(count);
-
+}
