@@ -25,8 +25,6 @@ typedef enum bool
  * @prev: Pointer to the previous element of the list
  * @next: Pointer to the next element of the list
  */
-
-/* Data structure for doubly linked list */
 typedef struct listint_s
 {
     const int n;
